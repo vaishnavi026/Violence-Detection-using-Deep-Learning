@@ -2,8 +2,7 @@
 Learning to Detect Violent Videos using Convolutional Long Short-Term Memory
 
 
-The project uses Convolutional Neural Network architecture and Convolutional Long Short-Term Memory to classify video in four different classes based on type of violence in them - Boxing, Hockey Fights, Crowd Violence, Non-Violent Videos. Started with [this](https://arxiv.org/abs/1709.06531) research paper as reference and consequently improved its performance by changing the architecture and then increasing the number of classes for classification of videos. It is an ongoing project so you may encounter some bugs.
-
+The project uses Convolutional Neural Network architecture and Convolutional Long Short-Term Memory to classify video in four different classes based on type of violence in them - Boxing, Hockey Fights, Crowd Violence, Non-Violent Videos. Started with [this](https://arxiv.org/abs/1709.06531) research paper as reference and consequently improved its performance by changing the architecture and then increasing the number of classes for classification of videos. 
 
 #### Running
 ```
